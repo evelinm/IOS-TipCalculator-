@@ -24,7 +24,7 @@ The following additional features are implemented:
  
 # Video Walkthrough
 
-![recording ](https://giphy.com/gifs/5BUTzu4AYmDZw4Byjd/html5)
+![recording ](https://media.giphy.com/media/5BUTzu4AYmDZw4Byjd/giphy.gif)
 
 
 
