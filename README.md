@@ -35,7 +35,7 @@ Getting familiar with Xcode and Swift was another difficulty.
 
 
 
-License
+# License
 Copyright [] []
 
 Licensed under the Apache License, Version 2.0 (the "License");
