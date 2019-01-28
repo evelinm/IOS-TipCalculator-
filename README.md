@@ -7,7 +7,7 @@ Time spent: 4 Hours
 
 
 
-#User Stories
+# User Stories
 The following required functionality is complete:
 
  User can enter a bill amount, choose a tip percentage, and see the tip and total values.
@@ -22,6 +22,6 @@ The following additional features are implemented:
 
  List anything else that you can get done to improve the app functionality!
  
-#Video Walkthrough
+# Video Walkthrough
 
 https://gph.is/2WqsfdJ
